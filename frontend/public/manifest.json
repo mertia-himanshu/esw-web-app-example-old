@@ -1,0 +1,6 @@
+{
+  "short_name": "esw-web-app-example",
+  "name": "esw-web-app-example",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
